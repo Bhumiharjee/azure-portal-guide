@@ -1,0 +1,3 @@
+examples/
+├── deploy-vm-arm-template.json
+└── set-up-alerts.ps1
