@@ -10,7 +10,7 @@ Welcome to the **Azure Portal Guide** repository! This resource is designed to h
 - [Examples](examples/)
 - [Images](images/)
 
-## Overview
+## Overview -
 
 The Azure Portal is a powerful interface for managing and monitoring your Azure resources. It provides a range of tools for deployment, management, and analysis, making cloud operations efficient and intuitive. This guide will help you navigate the portal’s features and apply them to real-world scenarios.
 
